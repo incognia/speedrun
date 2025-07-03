@@ -73,22 +73,22 @@ app.get('/api/cv', async (req, res) => {
       cvData = new CVData({
         personalInfo: {
           name: 'Rodrigo Álvarez',
-          title: 'Full Stack Developer',
+          title: 'DevOps Engineer',
           email: 'incognia@gmail.com',
           phone: '+54 11 1234-5678',
           github: 'https://github.com/incognia',
           linkedin: 'https://linkedin.com/in/rodrigoalvarez'
         },
-        about: 'Passionate Full Stack Developer with expertise in modern web technologies.',
+        about: 'Passionate DevOps Engineer with expertise in Kubernetes, automation, and infrastructure as code.',
         experience: [
           {
-            title: 'Senior Full Stack Developer',
-            company: 'Tech Solutions Inc.',
+            title: 'DevOps Engineer',
+            company: 'Innovative Solutions Co.',
             period: '2022 - Present',
             description: [
-              'Led development of scalable web applications using React and Node.js',
-              'Implemented microservices architecture improving system performance by 40%',
-              'Mentored junior developers and conducted code reviews'
+              'Developed and managed Kubernetes clusters on Proxmox bare-metal servers',
+              'Implemented GitOps workflows using Argo CD and Helm for automated deployments',
+              'Enhanced observability by integrating Prometheus, Grafana and OpenTelemetry'
             ]
           }
         ],

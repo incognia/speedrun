@@ -9,14 +9,14 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p>
-              I'm a passionate Full Stack Developer with expertise in modern web technologies. 
-              I enjoy creating efficient, scalable, and user-friendly applications that solve 
-              real-world problems.
+              I'm a passionate DevOps Engineer with expertise in Kubernetes, automation, and 
+              infrastructure as code. I specialise in building and operating modern platforms 
+              with GitOps workflows, advanced observability, and service mesh architectures.
             </p>
             <p>
-              With a strong foundation in both frontend and backend development, I bring ideas 
-              to life through clean code and innovative solutions. I'm always eager to learn 
-              new technologies and take on challenging projects.
+              With extensive experience in bare-metal Kubernetes deployments and cloud-native 
+              technologies, I excel at creating reliable, scalable infrastructure solutions. 
+              I'm driven by continuous improvement and love working with cutting-edge technologies.
             </p>
             <div className="about-stats">
               <div className="stat">

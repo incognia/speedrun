@@ -7,13 +7,13 @@ const Education = () => {
       degree: "Computer Science Engineering",
       school: "Universidad Tecnológica Nacional",
       period: "2015 - 2019",
-      description: "Specialized in software development and systems architecture"
+      description: "Specialized in distributed systems, networking and infrastructure automation"
     },
     {
-      degree: "Full Stack Web Development",
-      school: "FreeCodeCamp Certification",
-      period: "2018",
-      description: "Comprehensive training in modern web technologies"
+      degree: "Kubernetes Administrator (CKA)",
+      school: "Cloud Native Computing Foundation",
+      period: "2021",
+      description: "Certified Kubernetes Administrator with expertise in cluster management"
     },
     {
       degree: "React Development Bootcamp",

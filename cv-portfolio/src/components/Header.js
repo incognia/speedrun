@@ -11,8 +11,8 @@ const Header = () => {
           </div>
           <div className="profile-info">
             <h1>Rodrigo Álvarez</h1>
-            <h2>Full Stack Developer</h2>
-            <p>Passionate about creating innovative web solutions</p>
+            <h2>DevOps Engineer</h2>
+            <p>Passionate about automation, reliability and modern platform design</p>
           </div>
         </div>
         <nav className="nav-links">

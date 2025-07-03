@@ -4,23 +4,23 @@ import './Experience.css';
 const Experience = () => {
   const experiences = [
     {
-      title: "Senior Full Stack Developer",
-      company: "Tech Solutions Inc.",
+      title: "DevOps Engineer",
+      company: "Innovative Solutions Co.",
       period: "2022 - Present",
       description: [
-        "Led development of scalable web applications using React and Node.js",
-        "Implemented microservices architecture improving system performance by 40%",
-        "Mentored junior developers and conducted code reviews"
+        "Developed and managed Kubernetes clusters on Proxmox bare-metal servers",
+        "Implemented GitOps workflows using Argo CD and Helm for automated deployments",
+        "Enhanced observability by integrating Prometheus, Grafana and OpenTelemetry"
       ]
     },
     {
-      title: "Full Stack Developer",
-      company: "Digital Innovations Ltd.",
+      title: "Site Reliability Engineer",
+      company: "Tech Innovations Ltd.",
       period: "2020 - 2022",
       description: [
-        "Developed responsive web applications using MERN stack",
-        "Collaborated with cross-functional teams to deliver projects on time",
-        "Optimized database queries reducing load times by 30%"
+        "Managed CI/CD pipelines with Jenkins and GitLab CI",
+        "Improved system performance and reliability through load balancing and auto-scaling",
+        "Led efforts in implementing service mesh architecture with Istio and Envoy"
       ]
     },
     {
